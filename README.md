@@ -5,8 +5,8 @@ Create virtual environment if needed then:
 * uvicorn main:app --reload
 
 
-You can promote your user into superuser, 
+You can promote your user to superuser, 
 just enter to users table and change is_superuser to true 
-(necessary if you want to add new houses to sell).
+(it's necessary if you want to add new houses to sell).
 
 Demo: SOON...
