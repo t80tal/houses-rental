@@ -1,5 +1,3 @@
-Create virtual environment if needed then:
-
 * pip install -r ./requirements.txt
 * create .env file
 * uvicorn main:app --reload
